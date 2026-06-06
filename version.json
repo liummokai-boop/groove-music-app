@@ -1,7 +1,7 @@
 {
   "version": "1.9.0",
   "buildNumber": 9,
-  "downloadUrl": "https://github.com/liummokai-boop/groove-music-app/releases",
-  "changelog": "v1.9.0 更新内容：\n• 修复检查更新按钮无响应\n• 推荐歌单兜底展示\n• 歌曲封面显示优化\n• 新增红心收藏功能\n• 歌词自动滚动高亮\n• 清理无用遗迹代码",
+  "downloadUrl": "https://github.com/liummokai-boop/groove-music-app/releases/download/v1.9.0/GrooveMusic-v1.9.0.apk",
+  "changelog": "v1.9.0 更新内容：\n• 修复检查更新按钮无响应\n• 推荐歌单兜底展示\n• 歌曲封面显示优化\n• 新增红心收藏功能\n• 歌词自动滚动高亮\n• 清理无用遗留代码",
   "forceUpdate": false
 }
