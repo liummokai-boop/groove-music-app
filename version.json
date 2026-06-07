@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "buildNumber": 12,
-  "downloadUrl": "https://github.com/liummokai-boop/groove-music-app/releases/download/v2.1.1/GrooveMusic-v2.1.1.apk",
+  "version": "2.1.2",
+  "buildNumber": 13,
+  "downloadUrl": "https://github.com/liummokai-boop/groove-music-app/releases/download/v2.1.2/GrooveMusic-v2.1.2.apk",
   "changelog": "v2.1.0 更新内容：\n• 全新酷狗音乐概念版风格界面\n• 首页发现页全新设计\n• 播攽页面全新UI\n• 我的页面重新设计\n• 底部导航栏优化",
   "forceUpdate": false
 }
